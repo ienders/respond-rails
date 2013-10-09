@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
-    "lib/app/helpers/respond_helper.rb",
+    "app/helpers/respond_helper.rb",
     "lib/respond-rails.rb",
     "lib/respond/rails/engine.rb",
     "lib/respond/rails/version.rb",
