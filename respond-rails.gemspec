@@ -28,10 +28,10 @@ Gem::Specification.new do |s|
     "respond-rails.gemspec",
     "test/helper.rb",
     "test/test_respond-rails.rb",
-    "vendor/assets/images/respond.proxy.gif",
     "vendor/assets/javascripts/respond-proxy.html",
     "vendor/assets/javascripts/respond.js",
-    "vendor/assets/javascripts/respond.proxy.js"
+    "public/respond.proxy.gif",
+    "public/respond.proxy.js"
   ]
   s.homepage = "https://github.com/scottjehl/Respond"
   s.licenses = ["MIT", "GPL-2"]
